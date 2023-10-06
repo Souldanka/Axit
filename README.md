@@ -1,2 +1,2 @@
-# Axit-Test
-Test responsive website for business
+# Axit
+Responsive website for business
